@@ -1,0 +1,60 @@
+Photosynthesis is the biological process by which green plants convert light energy into chemical energy.
+During photosynthesis, chlorophyll absorbs sunlight to transform carbon dioxide and water into glucose and oxygen.
+Cellular respiration breaks down glucose molecules to release usable energy in the form of adenosine triphosphate.
+All living organisms rely on cellular respiration to power essential metabolic functions inside their cells.
+Mitosis is a type of cell division that produces two genetically identical daughter cells for growth and repair.
+Meiosis reduces the chromosome number by half to produce four genetically diverse gametes for sexual reproduction.
+Deoxyribonucleic acid carries the genetic instructions required for the development and functioning of all living organisms.
+Each nucleotide in a DNA molecule consists of a phosphate group, a sugar molecule, and a nitrogenous base.
+RNA polymerase transcribes genetic information from DNA into messenger RNA during the process of transcription.
+Ribosomes translate messenger RNA sequences into chains of amino acids to synthesize functional proteins.
+Enzymes act as biological catalysts that lower activation energy and accelerate chemical reactions inside living cells.
+Changes in temperature or pH can denature an enzyme and alter the shape of its active site.
+The cell membrane regulates the transport of nutrients and waste products into and out of the cell.
+Osmosis is the passive diffusion of water molecules across a selectively permeable membrane toward higher solute concentration.
+Active transport requires cellular energy to move ions and molecules against their concentration gradient.
+Ecosystems consist of biotic communities interacting with abiotic factors such as sunlight, water, soil, and temperature.
+Producers capture solar energy through photosynthesis and form the base of every terrestrial and aquatic food web.
+Primary consumers feed directly on producers while secondary consumers obtain energy by eating herbivores.
+Decomposers break down dead organic matter and recycle essential nutrients back into the soil and atmosphere.
+Natural selection favors individuals with advantageous traits that improve survival and reproductive success in a given environment.
+Over many generations, natural selection drives evolutionary adaptation and the emergence of new species.
+Biodiversity strengthens ecosystem resilience and helps biological communities recover from environmental disturbances.
+The nervous system transmits rapid electrical and chemical signals between the brain, spinal cord, and peripheral tissues.
+Neurons communicate across synapses by releasing neurotransmitters that bind to receptors on adjacent target cells.
+Homeostasis maintains stable internal conditions such as body temperature, blood pH, and glucose levels.
+The circulatory system transports oxygen, nutrients, hormones, and immune cells throughout the entire body.
+Red blood cells contain hemoglobin, a specialized protein that binds oxygen in the lungs and delivers it to tissues.
+White blood cells defend the body against pathogens by identifying and neutralizing bacteria, viruses, and foreign particles.
+Vaccines stimulate the adaptive immune system to produce memory cells that provide long-term protection against infectious diseases.
+Carbon cycles continuously through the atmosphere, oceans, soil, and living organisms via photosynthesis and respiration.
+Nitrogen fixation converts atmospheric nitrogen gas into ammonia that plants can absorb to build proteins and nucleic acids.
+Plate tectonics explains how Earth's lithosphere is divided into moving plates that shape continents, mountains, and ocean basins.
+Earthquakes occur when accumulated stress along geological fault lines is suddenly released as seismic waves.
+Volcanic eruptions bring molten magma, gases, and ash from Earth's mantle to the planetary surface.
+Weathering breaks down surface rocks into smaller mineral particles through physical, chemical, and biological processes.
+Erosion transports weathered sediment across landscapes through the action of wind, flowing water, glaciers, and gravity.
+The water cycle circulates water between oceans, atmosphere, and land through evaporation, condensation, and precipitation.
+Greenhouse gases trap outgoing infrared radiation in the atmosphere and regulate global surface temperatures.
+Burning fossil fuels increases atmospheric carbon dioxide concentrations and accelerates global climate change.
+Renewable energy sources such as solar, wind, and hydroelectric power generate electricity without releasing carbon emissions.
+Newton's first law of motion states that an object remains at rest or in uniform motion unless acted upon by an external force.
+Newton's second law establishes that the acceleration of an object is directly proportional to the net force and inversely proportional to its mass.
+Newton's third law states that for every action force there is an equal and opposite reaction force.
+Kinetic energy depends on both the mass of a moving object and the square of its velocity.
+Potential energy is stored energy resulting from an object's position in a gravitational field or elastic deformation.
+The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.
+Electric current is the flow of electric charge through a conductor driven by a difference in electric potential.
+Ohm's law relates voltage, current, and resistance through the fundamental equation voltage equals current times resistance.
+Magnetic fields are produced by moving electric charges and exert forces on other moving charges and magnetic materials.
+Electromagnetic waves carry energy through space at the speed of light without requiring a physical medium.
+Sound waves are longitudinal mechanical vibrations that travel through solids, liquids, and gases at different speeds.
+Light exhibits both wave-like interference and particle-like photon behavior depending on how it is observed.
+Refraction occurs when a light wave changes speed and bends as it passes from one transparent medium into another.
+Atoms consist of a dense positively charged nucleus surrounded by negatively charged electrons in quantized energy levels.
+Covalent bonds form when two atoms share pairs of valence electrons to achieve a stable electron configuration.
+Ionic bonds result from the electrostatic attraction between positively charged cations and negatively charged anions.
+Chemical reactions rearrange atoms into new substances while conserving total mass and atomic count.
+Acids release hydrogen ions in aqueous solution whereas bases accept hydrogen ions or release hydroxide ions.
+The periodic table organizes chemical elements by increasing atomic number and recurring patterns in chemical properties.
+Scientific inquiry relies on testable hypotheses, controlled experiments, empirical measurement, and peer review.
